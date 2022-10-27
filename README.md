@@ -3,9 +3,9 @@
 
 <h3 align="center">🙌 About me 🙌</h3>
 <div align="center">
-<p>I worked as a semiconductor enginner.</p>
-<p>Currently I am studying web development.</p>
-<p>My goal is to be a <b>front-end developer!</b> 🍊</p>
+  <p>I worked as a semiconductor engineer.</p>
+  <p>Currently I am studying web development.</p>
+  <p>My goal is to be a <b>front-end developer!</b> 🍊</p>
 </div>
 <br/>
 
