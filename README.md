@@ -1,10 +1,13 @@
+<h1 align="center">Hello, I'm Hyojin!</h3>
+<br/>
+
 <h3 align="center">🙌 About me 🙌</h3>
 <div align="center">
 <p>I worked as a semiconductor enginner.</p>
 <p>Currently I am studying web development.</p>
 <p>My goal is to be a <b>front-end developer!</b> 🍊</p>
 </div>
-  <br/>
+<br/>
 
 <h3 align="center">💥 Tech Stack 💥</h3>
 <div display="flex" flex-direction="column" align="center">
