@@ -1,13 +1,13 @@
-### :raised_hands: About me
+<h3 align="center">🙌 About me 🙌</h3>
+<div align="center">
+<p>I worked as a semiconductor enginner.</p>
+<p>Currently I am studying web development.</p>
+<p>My goal is to be a <b>front-end developer!</b> 🍊</p>
+</div>
+  <br/>
 
-- I worked as a semiconductor enginner.
-- Currently I am studying web development.
-- My goal is to be a **front-end developer** :tangerine:
-<br/>
-
-### :boom: Tech Stack
-
-<div display="flex" flex-direction="column";>
+<h3 align="center">💥 Tech Stack 💥</h3>
+<div display="flex" flex-direction="column" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
@@ -19,4 +19,6 @@
 <br/>
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu-no&count_bg=%23D1A7D8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu-no&count_bg=%23D1A7D8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</p>
