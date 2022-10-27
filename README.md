@@ -1,11 +1,11 @@
-##### :raised_hands: About me
+### :raised_hands: About me
 
 - I worked as a semiconductor enginner.
 - Currently I am studying web development.
 - My goal is to be a **front-end developer** :tangerine:
 <br/>
 
-##### :boom: Tech Stack
+### :boom: Tech Stack
 
 <div display="flex" flex-direction="column";>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
