@@ -3,7 +3,6 @@
 
 <h3 align="center">🙌 About me 🙌</h3>
 <div align="center">
-<!--   <p>I worked as a semiconductor engineer.</p> -->
   <p>Currently I am studying web development.</p>
   <p>My goal is to be a <b>front-end developer!</b> 🍊</p>
 </div>
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 </div>
 
-<br/>
 <br/>
 <br/>
 <br/>
