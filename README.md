@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Hyojin!</h3>
-<br/>
 
-<h3 align="center">🙌 About me 🙌</h3>
 <div align="center">
-  <p>Currently I am studying web development.</p>
-  <p>My goal is to be a <b>front-end developer!</b> 🍊</p>
+  <p>Front-end developer interested in user experience and accessibility.</p>
 </div>
+
 <br/>
 
-<h3 align="center">💥 Tech Stack 💥</h3>
+---
+
+<h3 align="center">Tech Stack</h3>
 <div display="flex" flex-direction="column" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
